@@ -7,7 +7,7 @@
 const $ = (id) => document.getElementById(id);
 
 /* إعداد Supabase */
-const SUPABASE_URL = "https://yotcldzubehrvwhomp.supabase.co";
+const SUPABASE_URL = "https://yotclzdzubehrvwhomvp.supabase.co";
 const SUPABASE_KEY = "sb_publishable_-G7SyGcyADAAots5Y-_Mhg_WTVCxaW6";
 
 const db = window.supabase.createClient(
