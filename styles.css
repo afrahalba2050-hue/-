@@ -297,7 +297,13 @@ footer{text-align:center;padding:22px;color:#647a88;font-weight:700}
     .school-card span {
         font-size: 9px !important;
     }
-
+.hero {
+  background-image: url("./girl-blended.jpg") !important;
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  min-height: 500px !important;
+}
     .ticker {
         height: 50px !important;
     }
